@@ -12,9 +12,5 @@ The result expected:
 
 ![Login Screen to do](MobileAppLoginScreen.png)
 
-## Installation
-
-You can download the app in the release section.
-
 ## Result
 ![Login Screen to do](demo/demo_login.png)
